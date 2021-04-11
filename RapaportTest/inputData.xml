@@ -1,0 +1,16 @@
+<data>
+	<loginPage>
+		<username>109559</username>
+		<password>12345678</password>
+	</loginPage>
+	<uploadSingleDiamond>
+		<stock>abc12345</stock>
+		<askingPrice>-10</askingPrice>
+		<rap>true</rap>
+		<shape>Round</shape>
+		<size>1.2</size>
+		<color>F</color>
+		<clarity>VVS1</clarity>
+	</uploadSingleDiamond>
+	
+</data>
